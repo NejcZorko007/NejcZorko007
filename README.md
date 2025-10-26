@@ -71,7 +71,7 @@ Trying to mix my own logic instead of irl logic with creativity — one frame at
 }
 ```
 
-### **PS**C:\Users\**zorko**> cat Toolchain.json
+### **PS**C:/Users/**zorko**> cat Toolchain.json
 ```json
 {
   "Python_Libraries": ["pygame", "time", "tkinter", "requests"],
