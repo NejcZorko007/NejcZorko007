@@ -34,7 +34,7 @@ Trying to mix my own logic instead of irl logic with creativity — one frame at
     "Engine": "pygame",
     "Status": "In Development",
     "Public": "False",
-    "Repository": "C:/c++/fatal-encounter/"
+    "Repository": "C:/python3.11/fatal-encounter/"
   },
 
   "Skills": {
