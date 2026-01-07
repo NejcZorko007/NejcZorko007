@@ -33,7 +33,7 @@ Trying to mix my own logic instead of irl logic with creativity — one frame at
     "Description": "Game about an encounter with an enemy.",
     "Engine": "pygame",
     "Status": "In Development",
-    "Public": "False",
+    "Public": "True",
     "Repository": "C:/python3.11/fatal-encounter/"
   },
 
