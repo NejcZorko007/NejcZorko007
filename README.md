@@ -15,7 +15,7 @@ Trying to mix my own logic instead of irl logic with creativity — one frame at
   "Owner": "Zorko",
   "Nickname": "Z",
   "License": {
-    "Type": "Indie Game Developer",
+    "Type": "Own program builder",
     "Issued": "Not Important",
     "Valid": true,
     "Scope": [
@@ -24,17 +24,18 @@ Trying to mix my own logic instead of irl logic with creativity — one frame at
       "Game Development",
       "Pixel Art",
       "AI",
-      "TextToSpeech"
+      "TextToSpeech",
+      "Remote Software"
     ]
   },
 
   "Current_Project": {
-    "Name": "Fatal-Encounter",
-    "Description": "Game about an encounter with an enemy.",
-    "Engine": "pygame",
-    "Status": "In Development",
+    "Name": "Ft-991a remote software",
+    "Description": "Software made for Yaesu Ft-991a stations for remote control",
+    "Engine": "python",
+    "Status": "WIP",
     "Public": "True",
-    "Repository": "C:/python3.11/fatal-encounter/"
+    "Repository": "C:/python3.11/FT-991A_Remote/"
   },
 
   "Skills": {
